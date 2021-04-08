@@ -11,8 +11,8 @@ namespace PalindromeTDD.tests
             //Assert
             var testString = "Stars";
             var expectedResult = false;
-
             var tester = new PalindromeTester();
+
             var testResult = tester.Tester(testString);
 
             Assert.Equal(expectedResult, testResult);
