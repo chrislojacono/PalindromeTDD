@@ -29,5 +29,17 @@ namespace PalindromeTDD.tests
 
             Assert.Equal(expectedResult, testResult);
         }
+
+        [Fact]
+        public void This_will_pass_if_Some_Men_is_true()
+        {
+            var testString = "Some men interpret nine memos";
+            var expectedResult = true;
+            var tester = new PalindromeTester();
+
+            var testResult = tester.Tester(testString);
+
+            Assert.Equal(expectedResult, testResult);
+        }
     }
 }
