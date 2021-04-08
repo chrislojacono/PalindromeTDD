@@ -16,10 +16,10 @@ namespace PalindromeTDD
 
             Array.Reverse(charArray);
 
-            var nonresversedString = new string(inputCharArray.Where(c => !char.IsPunctuation(c)).ToArray());
-            var reversedString = new string(charArray.Where(c => !char.IsPunctuation(c)).ToArray());
+            var nonresversedStringWithPunctuationRemoved = new string(inputCharArray.Where(c => !char.IsPunctuation(c)).ToArray());
+            var reversedStringWithPunctuationRemoved = new string(charArray.Where(c => !char.IsPunctuation(c)).ToArray());
             
-            if (nonresversedString.Equals(reversedString, StringComparison.OrdinalIgnoreCase))
+            if (nonresversedStringWithPunctuationRemoved.Equals(reversedStringWithPunctuationRemoved, StringComparison.OrdinalIgnoreCase))
             {
                 return true;
             }
