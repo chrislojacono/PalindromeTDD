@@ -1,0 +1,13 @@
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\bin\Debug\netcoreapp3.1\PalindromeTDD.exe
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\bin\Debug\netcoreapp3.1\PalindromeTDD.deps.json
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\bin\Debug\netcoreapp3.1\PalindromeTDD.runtimeconfig.json
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\bin\Debug\netcoreapp3.1\PalindromeTDD.runtimeconfig.dev.json
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\bin\Debug\netcoreapp3.1\PalindromeTDD.dll
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\bin\Debug\netcoreapp3.1\PalindromeTDD.pdb
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.csprojAssemblyReference.cache
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.AssemblyInfoInputs.cache
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.AssemblyInfo.cs
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.csproj.CoreCompileInputs.cache
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.dll
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.pdb
+C:\Users\cloja\source\repos\Back-End\PalindromeTDD\PalindromeTDD\obj\Debug\netcoreapp3.1\PalindromeTDD.genruntimeconfig.cache
