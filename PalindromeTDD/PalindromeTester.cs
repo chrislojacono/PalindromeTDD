@@ -12,12 +12,12 @@ namespace PalindromeTDD
             var joinedInput = string.Concat(input.Where(c => !char.IsWhiteSpace(c)));
 
             char[] inputCharArray = joinedInput.ToCharArray();
-            char[] charArray = joinedInput.ToCharArray();
+            char[] comparisonCharArray = joinedInput.ToCharArray();
 
-            Array.Reverse(charArray);
+            Array.Reverse(comparisonCharArray);
 
             var nonresversedStringWithPunctuationRemoved = new string(inputCharArray.Where(c => !char.IsPunctuation(c)).ToArray());
-            var reversedStringWithPunctuationRemoved = new string(charArray.Where(c => !char.IsPunctuation(c)).ToArray());
+            var reversedStringWithPunctuationRemoved = new string(comparisonCharArray.Where(c => !char.IsPunctuation(c)).ToArray());
             
             if (nonresversedStringWithPunctuationRemoved.Equals(reversedStringWithPunctuationRemoved, StringComparison.OrdinalIgnoreCase))
             {
