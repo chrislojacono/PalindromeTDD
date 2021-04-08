@@ -9,7 +9,10 @@ namespace PalindromeTDD
     {
         public bool Tester(string input)
         {
-            if (input == input.Reverse())
+            char[] charArray = input.ToCharArray();
+            Array.Reverse(charArray);
+            var reversedString = new string(charArray);
+            if (input.Equals(reversedString, StringComparison.OrdinalIgnoreCase))
             {
                 return true;
             }
